@@ -1,1 +1,13 @@
 /* your styles go here */
+
+footer.main-footer p.social a.linkedin {
+    background-color: #4460ae;
+  }
+  
+footer.main-footer p.social a.github {
+    background-color: #434343;
+  }
+
+  footer.main-footer p.social a.email {
+    background-color: #348e7b;
+  }
